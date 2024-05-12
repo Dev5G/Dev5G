@@ -29,7 +29,7 @@ Skilled in designing and developing RESTful APIs and microservices to support fr
 
 Let's talk if you want to know more about me xD
 
-## Latest Projects I've working on?
+## Latest Projects?
 
 - CrunchyLabs:
   A Solana based dex soon to be launched. You can visit the dapp at [https://crunchylabs.app](https://crunchylabs.app)
