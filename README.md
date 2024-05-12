@@ -2,7 +2,7 @@
 $ echo "Hello World!" > README.md
 ```
 
-# Hi there ![Hello Gif](https://github.com/Dev5G/Dev5G/assets/raw/main/Hi.gif), I'm [Shahid H.](https://www.upwork.com/freelancers/~01311c168bd1c3191d)
+# Hi there <img src="https://raw.githubusercontent.com/Dev5G/Dev5G/master/assets/Hi.gif" alt="Hello Gif" width="30px"> , I'm [Shahid H.](https://www.upwork.com/freelancers/~01311c168bd1c3191d)
 
 "The greatest glory in living lies not in never falling, but in rising every time we fall." That's what I believe in!
 
