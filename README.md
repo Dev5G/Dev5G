@@ -31,10 +31,9 @@ Let's talk if you want to know more about me xD
 
 ## Latest Projects?
 
-- CrunchyLabs:
-  A Solana based dex soon to be launched. You can visit the dapp at [https://crunchylabs.app](https://crunchylabs.app)
-
+- CrunchyLabs: A Solana based dex soon to be launched. You can visit the dapp at [https://crunchylabs.app](https://crunchylabs.app)
 - Trippers NFTs: Solana based NFT collection site built using next.js/solana web3. You can visit the site at [https://tyson.mslsd.news/](https://tyson.mslsd.news/)
+- Sheraonsol: Solana based Token Presale site built using next.js/solana web3. You can visit the site at [https://www.sheraonsol.club/](https://www.sheraonsol.club/)
 
 ## 🔗 Connect with me?
 
