@@ -39,4 +39,4 @@ Let's talk if you want to know more about me xD
 
 Wanna hire me? Let's talk! 👇
 
-[![Shahid H. Upwork Profile](https://img.shields.io/badge/upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01311c168bd1c3191d)
+[![Shahid H. Upwork Profile](https://img.shields.io/badge/upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~019be11d7cec714036)
